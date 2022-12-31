@@ -3,7 +3,7 @@
 
 #### composer install
 #### npm install
-#### cp .env.exaple .env
+
 #### php artisan key:generate 
 
 #### npm install vite 
