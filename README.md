@@ -1,6 +1,11 @@
 
 ## step1 (write in the command prompt the following commands)
 
+#### composer install
+#### npm install
+#### cp .env.exaple .env
+#### php artisan key:generate 
+
 #### npm install vite 
 #### npm run dev         -->(don't close it)
 
